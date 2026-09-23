@@ -1,0 +1,601 @@
+gene_id	gene_name	log2FC	pvalue	funcao
+AAEL_580721	mitochondrial_protein	4.3236	0.26822567	Metabolismo de aminoácidos
+AJAP_989513	transport_protein	-0.0407	0.00423238	Metabolismo de aminoácidos
+AALB_385205	antimicrobial_peptide	0.9448	0.0034689	Metabolismo de aminoácidos
+AALB_664037	immune_response_protein	3.2069	0.00448984	Metabolismo de aminoácidos
+AAEL_466824	juvenile_hormone_protein	-5.0842558445139385	0.08785859	Fototransdução
+AAEL_249849	ribosomal_protein	0.0678	1e-12	Processamento de RNA
+AAEL_151745	transcription_factor	-0.4845	0.03546356	Desenvolvimento de tecidos
+AJAP_191865	ecdysone_response_protein	-0.155	1.43145e-06	Desenvolvimento de tecidos
+AALB_312890	trypsin_like_protease	3.0532440848611215	0.27745163	Desenvolvimento embrionário
+AALB_123321	actin_related_protein	-1.3174	0.00554012	Regulação transcricional
+AAEL_909006	actin_related_protein	0.3517	0.09169973	Desenvolvimento de tecidos
+AJAP_274293	DNA_repair_protein	-1.9127	0.02408981	Tradução
+AJAP_883415	signal_transduction_protein	1.78	0.35140063	Metabolismo de carboidratos
+AAEL_480975	transport_protein	-2.6449295259721213	0.03031669	Processamento de RNA
+AAEL_759792	ubiquitin_ligase	-0.8882	0.01480823	Metabolismo de aminoácidos
+AAEL_688579	immune_response_protein	-0.801	0.160749	Ciclo celular
+AAEL_290471	transcription_factor	0.4959	7.195e-05	Transporte de membrana
+AALB_572930	transport_protein	-1.4374	0.02920575	Resposta ao estresse
+AAEL_843091	DNA_repair_protein	3.2616	0.04175883	Transporte de membrana
+AAEL_575774	tubulin	3.5225996332674963	0.03374114	Resposta a patógenos
+AALB_735605	ribosomal_protein	0.7079	0.08262335	Tradução
+AAEL_489593	mitochondrial_protein	1.2266	0.00011685	Biossíntese de proteínas
+AAEL_173686	ribosomal_protein	-1.043	6.074095e-06	Processamento de RNA
+AAEL_668535	cytochrome_P450	1.9602	0.13986839	Desenvolvimento larval
+AALB_772108	ubiquitin_ligase	0.2062	0.24313168	Desenvolvimento embrionário
+AALB_366765	proteasome_subunit	1.7103	0.02094715	Vias de sinalização hormonal
+AAEL_358930	glutathione_S_transferase	-0.3563	0.00147691	Neurogênese
+AALB_760482	DNA_repair_protein	2.3711	0.02527071	Regulação transcricional
+AALB_969270	ribosomal_protein	0.7224	0.21449389	Estresse oxidativo
+AAEL_548874	DNA_repair_protein	3.9285	0.00555784	Desenvolvimento larval
+AALB_953499	ecdysone_response_protein	-0.6651	0.02028515	Detoxificação
+AAEL_218033	ubiquitin_ligase	0.3682	4.1259e-08	Metabolismo de carboidratos
+AAEL_713157	heat_shock_protein	-5.3377522639070385	0.00816492	Fototransdução
+AJAP_921106	DNA_repair_protein	-0.9527	0.0003429	Desenvolvimento embrionário
+AJAP_670559	actin_related_protein	1.1136	0.00061735	Estresse oxidativo
+AJAP_531734	ATP_synthase	2.0328	0.34925105	Estresse oxidativo
+AAEL_765627	lipid_metabolism_protein	5.337	0.03151162	Metabolismo energético
+AAEL_101062	actin_related_protein	-0.1739	0.18605193	Resposta imune
+AALB_674736	glutathione_S_transferase	-1.6798	0.00050948	Metabolismo de lipídios
+AAEL_499445	ubiquitin_ligase	1.356	0.00043524	Biossíntese de proteínas
+AAEL_870173	juvenile_hormone_protein	-2.0301	0.0566869	Transporte de membrana
+AALB_366776	transcription_factor	1.0157	0.50061786	Biossíntese de proteínas
+AAEL_758956	membrane_receptor	-0.9041	0.08359755	Resposta ao estresse
+AJAP_499384	odorant_receptor	0.3809	0.02955198	Neurogênese
+AAEL_631849	heat_shock_protein	1.9639	0.37331625	Fototransdução
+AALB_706440	ecdysone_response_protein	-0.1993	0.04746305	Metabolismo de carboidratos
+AAEL_486193	DNA_repair_protein	1.6792	0.0096621	Neurogênese
+AALB_126069	cytochrome_P450	1.5717	0.13817761	Regulação transcricional
+AALB_637198	serine_protease	-3.3558	0.11202125	Neurogênese
+AAEL_570951	transcription_factor	-1.6229	2.14e-10	Metabolismo energético
+AJAP_123275	phosphatase	-2.8113	0.00598511	Detoxificação
+AALB_574665	trypsin_like_protease	0.06525443578471801	0.09612545	Desenvolvimento de tecidos
+AJAP_291076	ABC_transporter	-0.1897	0.10546992	Desenvolvimento embrionário
+AJAP_809913	cytochrome_P450	3.2055	0.12615584	Metabolismo de aminoácidos
+AALB_699991	proteasome_subunit	-2.9393	0.01208167	Ciclo celular
+AJAP_903692	ABC_transporter	-1.031	0.3752555	Resposta a patógenos
+AAEL_365956	actin_related_protein	1.4409	0.04193199	Transporte de membrana
+AAEL_814016	antimicrobial_peptide	0.3227	0.20310678	Estresse oxidativo
+AAEL_216421	ABC_transporter	0.9591	0.45084	Modificação de proteínas
+AAEL_564374	RNA_binding_protein	-2.2569	0.05237635	Ciclo celular
+AAEL_258211	signal_transduction_protein	2.4782	0.01451979	Metabolismo de lipídios
+AAEL_287210	signal_transduction_protein	1.3986	8.703e-05	Detoxificação
+AJAP_886237	signal_transduction_protein	0.7229	0.03438108	Desenvolvimento larval
+AAEL_244990	tubulin	-1.2341	0.27415711	Biossíntese de proteínas
+AAEL_258518	trypsin_like_protease	0.5828	0.00158251	Replicação do DNA
+AALB_768406	heat_shock_protein	-0.5247	0.04744249	Replicação do DNA
+AAEL_518034	serine_protease	-2.9709	0.00424555	Reparo do DNA
+AJAP_890756	odorant_receptor	-0.0908	0.5742092	Desenvolvimento larval
+AAEL_895543	ABC_transporter	-0.2821	0.03902025	Detoxificação
+AJAP_746465	membrane_receptor	4.181170258816244	0.27997063	Apoptose
+AALB_784106	odorant_receptor	-4.022	0.07504105	Replicação do DNA
+AAEL_843246	ABC_transporter	0.4234	0.43813776	Regulação transcricional
+AAEL_487952	signal_transduction_protein	-2.08	1.91e-10	Desenvolvimento larval
+AJAP_899666	signal_transduction_protein	0.5746	0.22979347	Resposta imune
+AALB_859224	cytochrome_P450	0.6737	0.07129668	Metabolismo de aminoácidos
+AALB_625134	chitin_synthase	-0.1563	0.60432239	Metabolismo de aminoácidos
+AALB_441383	ubiquitin_ligase	1.4531	0.26908102	Desenvolvimento de tecidos
+AAEL_932946	ecdysone_response_protein	-2.2424	0.17686613	Regulação transcricional
+AAEL_984011	ATP_synthase	1.9939	0.23318949	Interação hospedeiro-microrganismo
+AAEL_237541	ubiquitin_ligase	-1.2745	0.07707008	Transporte de íons
+AJAP_928533	odorant_receptor	-2.8006	0.00111697	Resposta a patógenos
+AALB_716210	membrane_receptor	-0.4903	0.16310835	Resposta a patógenos
+AAEL_280448	membrane_receptor	-3.7713	1e-10	Desenvolvimento de tecidos
+AAEL_335659	DNA_repair_protein	0.4575	0.04255442	Estresse oxidativo
+AAEL_954016	ubiquitin_ligase	-0.4667	0.19965002	Transporte de íons
+AAEL_964909	ABC_transporter	2.2206	0.35145556	Resposta ao estresse
+AALB_888260	signal_transduction_protein	1.1681	0.07250541	Proteólise
+AALB_382762	odorant_receptor	-2.5056	0.14857103	Homeostase celular
+AJAP_467436	chitin_synthase	-1.5091	0.22908363	Replicação do DNA
+AALB_671650	immune_response_protein	0.9372	7.96e-10	Resposta a patógenos
+AAEL_485925	kinase	1.5247	0.05287124	Resposta ao estresse
+AALB_814743	lipid_metabolism_protein	-1.2449139153964568	0.26022339	Resposta a patógenos
+AALB_182180	aquaporin	2.1861	0.33537426	Metabolismo de aminoácidos
+AALB_503081	juvenile_hormone_protein	-0.1611	0.03355786	Desenvolvimento de tecidos
+AALB_401953	ecdysone_response_protein	0.6528	0.12311106	Desenvolvimento de tecidos
+AALB_105287	cytochrome_P450	2.3377	0.20394239	Transporte de íons
+AALB_108512	ATP_synthase	-0.546	0.00085738	Desenvolvimento larval
+AAEL_208872	transcription_factor	0.6835	0.13373499	Ciclo celular
+AAEL_872042	DNA_repair_protein	-0.5884	0.09159841	Transporte de membrana
+AAEL_704055	ABC_transporter	-0.9917	0.0862596	Desenvolvimento embrionário
+AAEL_529474	signal_transduction_protein	0.0871	0.41698954	Reparo do DNA
+AALB_142078	transcription_factor	-1.2376	0.22509268	Estresse oxidativo
+AAEL_707812	signal_transduction_protein	-0.2356	0.11985163	Metabolismo de lipídios
+AALB_636507	juvenile_hormone_protein	-1.8629	0.0514664	Neurogênese
+AJAP_405073	ribosomal_protein	-0.342	0.000609220092	Desenvolvimento de tecidos
+AAEL_429588	tubulin	0.8071	0.03629777	Interação hospedeiro-microrganismo
+AAEL_988266	trypsin_like_protease	-1.0598	0.0278887	Replicação do DNA
+AALB_820801	juvenile_hormone_protein	0.0167	0.01182261	Proteólise
+AAEL_435842	heat_shock_protein	0.2508	0.00910963	Apoptose
+AAEL_872608	serine_protease	0.8146	7.5e-11	Replicação do DNA
+AAEL_791519	oxidative_stress_protein	-0.2404	0.07716908	Desenvolvimento de tecidos
+AAEL_237023	transport_protein	1.9546	0.02726576	Biossíntese de proteínas
+AJAP_632295	chitin_synthase	-3.7817	0.05073762	Fototransdução
+AJAP_535048	ATP_synthase	2.689208823256638	0.20872881	Biossíntese de proteínas
+AALB_451005	heat_shock_protein	-1.568	0.00316182	Desenvolvimento embrionário
+AJAP_973172	ATP_synthase	0.7261	0.00021747	Transporte de íons
+AJAP_622244	phosphatase	-1.6892	0.29453444	Transporte de íons
+AAEL_779290	ribosomal_protein	1.1597	0.07694082	Proteólise
+AJAP_599097	signal_transduction_protein	0.4978	0.00837493	Apoptose
+AALB_907043	actin_related_protein	-1.1713	0.14177044	Metabolismo de aminoácidos
+AJAP_114060	lipid_metabolism_protein	1.9316	4.875e-08	Modificação de proteínas
+AJAP_577272	kinase	-0.2951	0.12911013	Estresse oxidativo
+AAEL_929735	serine_protease	0.985	0.21038271	Resposta imune
+AAEL_830406	serine_protease	-1.6509	1.435e-09	Vias de sinalização hormonal
+AAEL_139711	phosphatase	-0.0556	0.06318214	Fototransdução
+AAEL_435484	ABC_transporter	3.6061	0.13369405	Detoxificação
+AJAP_318134	DNA_repair_protein	1.7333	0.00507147	Sinalização celular
+AJAP_502400	actin_related_protein	0.5537	0.02112433	Ciclo celular
+AAEL_692016	immune_response_protein	-0.8081	0.03579913	Metabolismo de carboidratos
+AALB_635534	aquaporin	0.1215	0.31320599	Ciclo celular
+AAEL_611937	ribosomal_protein	0.3556	0.40770804	Detoxificação
+AAEL_192263	phosphatase	0.8086	0.16783155	Tradução
+AAEL_635590	phosphatase	-1.938	0.00358656	Detoxificação
+AAEL_665445	ABC_transporter	1.2031	0.02184263	Apoptose
+AJAP_323810	glutathione_S_transferase	-1.9613	0.06287216	Regulação transcricional
+AAEL_445266	serine_protease	2.936	0.22117833	Replicação do DNA
+AALB_590025	membrane_receptor	-1.3889	0.16478635	Resposta imune
+AALB_443054	DNA_repair_protein	-3.07497441535901	0.09550528	Interação hospedeiro-microrganismo
+AAEL_957756	immune_response_protein	1.8093	0.06998824	Metabolismo de lipídios
+AJAP_159379	signal_transduction_protein	-0.4543	0.16043392	Interação hospedeiro-microrganismo
+AJAP_502662	proteasome_subunit	0.6131	0.01102207	Desenvolvimento de tecidos
+AAEL_198723	transport_protein	2.5833	0.000160212436	Ciclo celular
+AALB_372933	actin_related_protein	1.0159	0.03279104	Resposta a patógenos
+AAEL_953088	transport_protein	0.64	0.11267556	Metabolismo de lipídios
+AAEL_950916	proteasome_subunit	-6.50833903712306	0.33531764	Biossíntese de proteínas
+AAEL_313942	immune_response_protein	-1.6807	0.58048166	Transporte de íons
+AALB_465821	odorant_receptor	1.8845	0.11104428	Resposta a patógenos
+AALB_381173	cytochrome_P450	1.0259	0.14567738	Interação hospedeiro-microrganismo
+AAEL_132265	ATP_synthase	1.2986	4.1624e-08	Regulação transcricional
+AAEL_343322	lipid_metabolism_protein	1.1437	0.01416683	Biossíntese de proteínas
+AJAP_274944	oxidative_stress_protein	5.63868103134011	0.0083658	Metabolismo de carboidratos
+AAEL_548396	DNA_repair_protein	-0.4705	0.00707414	Interação hospedeiro-microrganismo
+AAEL_171907	ecdysone_response_protein	0.2169	0.0497277	Metabolismo de lipídios
+AALB_302967	membrane_receptor	-1.8516	1.48334e-07	Estresse oxidativo
+AJAP_402775	DNA_repair_protein	-2.3004	0.73335251	Metabolismo de aminoácidos
+AAEL_856892	serine_protease	-2.9587	0.05222525	Transporte de íons
+AALB_164772	transport_protein	-1.5933	1.229e-09	Neurogênese
+AALB_114382	odorant_receptor	2.7946	0.10092367	Apoptose
+AAEL_463339	ecdysone_response_protein	-2.7949	0.00717097	Transporte de membrana
+AALB_382753	proteasome_subunit	-0.5464	0.08021025	Ciclo celular
+AAEL_247550	phosphatase	-2.3277	0.0847753	Metabolismo de lipídios
+AALB_532882	odorant_receptor	-1.0818	0.17564484	Modificação de proteínas
+AALB_592313	chitin_synthase	0.3054	0.00011502	Modificação de proteínas
+AALB_754618	ATP_synthase	-1.2602	1.1784e-08	Regulação transcricional
+AAEL_695603	chitin_synthase	1.9614	0.18926656	Metabolismo de carboidratos
+AJAP_488349	lipid_metabolism_protein	2.7612	0.06120623	Resposta a patógenos
+AAEL_700613	ABC_transporter	-4.0484	0.24855933	Tradução
+AAEL_155318	DNA_repair_protein	-1.2294	0.13092177	Regulação transcricional
+AAEL_477177	ribosomal_protein	0.1065	2.3161696e-05	Ciclo celular
+AALB_976906	juvenile_hormone_protein	2.027	0.06918181	Ciclo celular
+AALB_306988	serine_protease	1.739919744829106	0.14993696	Resposta ao estresse
+AAEL_225885	kinase	-0.0359	0.10658411	Metabolismo de carboidratos
+AALB_641656	immune_response_protein	-2.0821	0.0019965	Desenvolvimento de tecidos
+AAEL_288014	serine_protease	-2.759	0.19136614	Apoptose
+AALB_330203	chitin_synthase	2.6017	2.7584e-08	Estresse oxidativo
+AAEL_795275	odorant_receptor	-3.2833	0.26028154	Detoxificação
+AALB_311951	odorant_receptor	4.1915	0.14214192	Biossíntese de proteínas
+AAEL_295716	tubulin	1.3053	0.11106298	Replicação do DNA
+AJAP_415172	serine_protease	1.224	0.21719662	Ciclo celular
+AAEL_100126	lipid_metabolism_protein	1.0358	0.03722101	Replicação do DNA
+AAEL_127632	mitochondrial_protein	-0.4548	0.07505939	Homeostase celular
+AAEL_820670	ubiquitin_ligase	-2.5473850221864205	0.28631542	Reparo do DNA
+AJAP_417320	oxidative_stress_protein	-0.34	0.02993874	Transporte de íons
+AJAP_841426	transport_protein	0.9955	0.041784	Metabolismo de carboidratos
+AAEL_275399	trypsin_like_protease	-0.0606	0.30287965	Detoxificação
+AALB_234869	chitin_synthase	-1.7106	5.2e-11	Interação hospedeiro-microrganismo
+AJAP_769078	immune_response_protein	-1.567	2.2499e-08	Transporte de membrana
+AALB_963021	ATP_synthase	-1.7717	0.00061364	Proteólise
+AALB_232717	odorant_receptor	1.7476	1.02e-10	Tradução
+AAEL_748373	aquaporin	-1.1114	0.03923314	Modificação de proteínas
+AAEL_905688	immune_response_protein	-3.4418	0.05138055	Metabolismo de lipídios
+AJAP_200158	oxidative_stress_protein	0.7143	0.0027868	Apoptose
+AJAP_268502	phosphatase	2.7261	0.03476199	Metabolismo de lipídios
+AALB_430388	DNA_repair_protein	1.3915	0.00059861	Biossíntese de proteínas
+AAEL_418408	antimicrobial_peptide	-1.086	4.2959e-08	Transporte de íons
+AAEL_157545	membrane_receptor	-2.8563	0.1501175	Interação hospedeiro-microrganismo
+AALB_925656	antimicrobial_peptide	-0.2417	0.00100242	Homeostase celular
+AJAP_984377	trypsin_like_protease	-0.2866	0.14193635	Processamento de RNA
+AJAP_140738	membrane_receptor	-1.7446	0.12926173	Proteólise
+AALB_280760	ubiquitin_ligase	0.9919	0.43674441	Reparo do DNA
+AALB_863978	ABC_transporter	3.3239	0.05576957	Vias de sinalização hormonal
+AAEL_763937	glutathione_S_transferase	3.4209649780084646	0.08811845	Biossíntese de proteínas
+AAEL_226161	proteasome_subunit	0.2889	0.11589059	Desenvolvimento larval
+AJAP_944193	proteasome_subunit	-1.687	0.08701997	Replicação do DNA
+AALB_398512	chitin_synthase	2.5153	0.11287381	Ciclo celular
+AAEL_666202	juvenile_hormone_protein	-0.1353	0.02866425	Desenvolvimento larval
+AAEL_752026	phosphatase	-1.0421	0.11475851	Metabolismo de aminoácidos
+AALB_871253	tubulin	0.1146	0.15852683	Metabolismo de carboidratos
+AAEL_429670	membrane_receptor	0.8495	0.15463846	Reparo do DNA
+AAEL_906388	tubulin	0.2506	0.03751172	Transporte de membrana
+AALB_932672	transcription_factor	2.1711	0.16028321	Metabolismo de carboidratos
+AALB_194270	chitin_synthase	0.6911	0.3147685	Biossíntese de proteínas
+AALB_891189	ubiquitin_ligase	-0.5111	0.02328392	Desenvolvimento de tecidos
+AAEL_765755	kinase	0.7221	0.03070458	Processamento de RNA
+AALB_990324	transcription_factor	0.8993	0.00094946	Metabolismo de aminoácidos
+AAEL_346726	transcription_factor	-2.3335	0.25549654	Sinalização celular
+AAEL_670451	trypsin_like_protease	2.069	0.00317641	Fototransdução
+AALB_857907	oxidative_stress_protein	-0.5416	0.00465504	Estresse oxidativo
+AALB_255989	mitochondrial_protein	-0.4956	0.05591394	Ciclo celular
+AJAP_776926	transport_protein	1.3525	0.01694374	Tradução
+AALB_687111	transcription_factor	1.3449	0.38777518	Processamento de RNA
+AALB_251878	immune_response_protein	-1.2615	7.7e-11	Metabolismo energético
+AAEL_626047	ecdysone_response_protein	1.4452	0.00562379	Interação hospedeiro-microrganismo
+AAEL_535165	aquaporin	-1.0088	0.03889243	Desenvolvimento de tecidos
+AAEL_233554	proteasome_subunit	3.2752	0.12480895	Reparo do DNA
+AAEL_551282	signal_transduction_protein	-1.4907	0.23748282	Resposta a patógenos
+AJAP_364223	signal_transduction_protein	0.4311	0.16590752	Vias de sinalização hormonal
+AAEL_159676	transcription_factor	-1.4076	0.00357565	Interação hospedeiro-microrganismo
+AJAP_841804	transport_protein	4.0009	9.06e-10	Sinalização celular
+AALB_714685	RNA_binding_protein	1.6867960380761926	0.32742031	Metabolismo de carboidratos
+AALB_717895	phosphatase	0.9439	0.18203546	Transporte de íons
+AALB_249521	immune_response_protein	-1.3228	0.29573684	Resposta ao estresse
+AALB_688365	phosphatase	-0.6374	0.16115985	Regulação transcricional
+AALB_803662	kinase	0.8164	0.33196565	Neurogênese
+AAEL_237717	mitochondrial_protein	2.2043	0.03066175	Fototransdução
+AALB_662288	kinase	2.9221	0.0193199	Sinalização celular
+AAEL_897917	ABC_transporter	-2.7665	0.00832674	Transporte de íons
+AAEL_951587	immune_response_protein	0.482	0.2479048	Neurogênese
+AALB_676775	transport_protein	2.6271	0.01974717	Detoxificação
+AAEL_374486	glutathione_S_transferase	-3.0336	0.0326927	Reparo do DNA
+AJAP_410914	lipid_metabolism_protein	0.5659	0.04123044	Resposta ao estresse
+AJAP_962061	cytochrome_P450	-0.0038	0.00461397	Sinalização celular
+AJAP_283675	immune_response_protein	0.7462	1.13628e-06	Neurogênese
+AAEL_837334	mitochondrial_protein	-1.3901	0.26254263	Modificação de proteínas
+AAEL_912831	kinase	-2.5841	5.01e-10	Metabolismo energético
+AJAP_316454	transport_protein	-3.4436	0.10479742	Sinalização celular
+AAEL_209575	immune_response_protein	1.7575	0.10220768	Biossíntese de proteínas
+AJAP_997336	aquaporin	1.9873	0.02872033	Metabolismo energético
+AJAP_605815	aquaporin	0.5448	0.07385942	Interação hospedeiro-microrganismo
+AJAP_176218	transport_protein	-0.9615	0.19835994	Neurogênese
+AAEL_436199	oxidative_stress_protein	-2.9215	0.00080388	Desenvolvimento de tecidos
+AAEL_786840	DNA_repair_protein	1.014	0.00091563	Replicação do DNA
+AJAP_562052	heat_shock_protein	-1.9814	0.00209208	Resposta a patógenos
+AAEL_139986	immune_response_protein	-1.2803	0.0253638	Transporte de membrana
+AAEL_447739	DNA_repair_protein	-1.0558	0.04666064	Vias de sinalização hormonal
+AALB_572327	cytochrome_P450	-0.3556	0.17752998	Regulação transcricional
+AJAP_697794	tubulin	-1.3663	0.00027941	Resposta imune
+AALB_525037	tubulin	0.0602	0.42799856	Neurogênese
+AALB_999885	chitin_synthase	-1.1193	0.0557301	Detoxificação
+AAEL_112175	odorant_receptor	1.2625	0.2910737	Neurogênese
+AALB_416915	ATP_synthase	1.8559	1.319e-08	Resposta imune
+AJAP_745588	ribosomal_protein	0.1954	0.04208581	Resposta ao estresse
+AAEL_868734	aquaporin	0.8327	2.9858e-08	Desenvolvimento embrionário
+AALB_510543	kinase	3.8121	0.00616357	Modificação de proteínas
+AJAP_368294	lipid_metabolism_protein	-2.1107	0.11463637	Transporte de membrana
+AALB_354726	immune_response_protein	-2.2202	0.02168558	Biossíntese de proteínas
+AALB_626486	antimicrobial_peptide	1.251	0.13425188	Ciclo celular
+AALB_808754	RNA_binding_protein	3.5038	0.17892526	Sinalização celular
+AAEL_267292	phosphatase	-0.4689	0.05573965	Detoxificação
+AAEL_244931	transport_protein	3.1083	0.52834355	Replicação do DNA
+AJAP_262491	kinase	0.1736	0.18990897	Vias de sinalização hormonal
+AJAP_501921	immune_response_protein	-1.2256	0.07907749	Processamento de RNA
+AJAP_360910	ATP_synthase	-1.7832	0.18199208	Detoxificação
+AJAP_187955	chitin_synthase	1.1329	0.27118163	Desenvolvimento larval
+AALB_727433	cytochrome_P450	-1.6469	0.0100064	Biossíntese de proteínas
+AALB_194914	aquaporin	0.1463	0.10309929	Detoxificação
+AALB_307990	juvenile_hormone_protein	2.8502	0.11197078	Tradução
+AALB_478387	ATP_synthase	-0.5522	8.1474e-08	Resposta ao estresse
+AALB_756639	signal_transduction_protein	2.3652	0.01272797	Apoptose
+AALB_997928	cytochrome_P450	-2.1862	2.63213e-07	Vias de sinalização hormonal
+AJAP_238155	heat_shock_protein	-0.961	0.30451394	Resposta imune
+AAEL_881817	oxidative_stress_protein	-2.5329	7.1e-11	Reparo do DNA
+AAEL_356713	signal_transduction_protein	0.1314	0.00607879	Modificação de proteínas
+AAEL_643351	proteasome_subunit	1.4041	0.0315065	Resposta imune
+AALB_190093	aquaporin	2.1530265702269378	0.53953663	Reparo do DNA
+AAEL_317215	transcription_factor	2.2087	0.255997	Desenvolvimento de tecidos
+AALB_783889	phosphatase	-1.3485	0.00309181	Desenvolvimento de tecidos
+AALB_127856	ribosomal_protein	0.4056	0.05331385	Processamento de RNA
+AAEL_659655	cytochrome_P450	-0.9494	0.04360065	Interação hospedeiro-microrganismo
+AALB_862092	actin_related_protein	0.651	8.78e-07	Biossíntese de proteínas
+AAEL_422918	trypsin_like_protease	0.9067	0.00230866	Desenvolvimento embrionário
+AAEL_941461	oxidative_stress_protein	-2.6596239339108445	0.51513024	Apoptose
+AJAP_413837	odorant_receptor	-1.9271	8.1043598e-05	Transporte de membrana
+AAEL_942393	ubiquitin_ligase	-1.6015	0.20765876	Resposta imune
+AAEL_880316	ecdysone_response_protein	-1.2677	0.08089463	Biossíntese de proteínas
+AALB_356609	aquaporin	-0.43	0.04136258	Desenvolvimento embrionário
+AALB_436676	chitin_synthase	0.1569	0.02819282	Resposta imune
+AAEL_418277	kinase	1.2746	0.03165088	Desenvolvimento larval
+AALB_618271	antimicrobial_peptide	-4.1158387926923865	0.38279975	Proteólise
+AAEL_585417	odorant_receptor	-2.8818	0.11222949	Metabolismo de carboidratos
+AAEL_288456	ABC_transporter	3.8803	0.15238282	Desenvolvimento larval
+AALB_257729	transcription_factor	-2.0366	0.37803168	Proteólise
+AALB_328504	ABC_transporter	1.5054	0.02509105	Estresse oxidativo
+AALB_752665	juvenile_hormone_protein	0.0563	0.15254403	Desenvolvimento de tecidos
+AALB_625910	antimicrobial_peptide	0.4524	1e-12	Proteólise
+AJAP_140809	oxidative_stress_protein	-0.0028	0.23904545	Replicação do DNA
+AALB_816756	proteasome_subunit	-0.6927	0.05700027	Homeostase celular
+AAEL_599512	ABC_transporter	0.8352	0.00455077	Desenvolvimento de tecidos
+AALB_129402	serine_protease	-0.7895	3.1427394e-05	Metabolismo energético
+AAEL_851883	ecdysone_response_protein	2.0993	0.193951	Regulação transcricional
+AAEL_672212	glutathione_S_transferase	1.0232	0.05396742	Sinalização celular
+AAEL_324137	ecdysone_response_protein	1.0793	0.17515379	Vias de sinalização hormonal
+AAEL_397881	antimicrobial_peptide	-0.9128	0.02453763	Replicação do DNA
+AJAP_451707	signal_transduction_protein	-0.4254	0.09915054	Desenvolvimento larval
+AJAP_610585	ribosomal_protein	-2.1382	0.09016822	Modificação de proteínas
+AALB_490719	cytochrome_P450	-0.6354	0.15341619	Interação hospedeiro-microrganismo
+AAEL_201371	oxidative_stress_protein	-1.8658	0.28779725	Resposta a patógenos
+AAEL_292192	phosphatase	2.3635	0.42743072	Biossíntese de proteínas
+AAEL_121172	odorant_receptor	0.091	0.00198196	Proteólise
+AAEL_677564	antimicrobial_peptide	0.3069	0.00025261	Estresse oxidativo
+AALB_808362	serine_protease	-0.4053	0.00145182	Tradução
+AALB_880298	odorant_receptor	0.3556	0.03307791	Tradução
+AALB_322320	proteasome_subunit	4.4368	0.40536079	Proteólise
+AAEL_111046	serine_protease	-0.5403	9.1e-11	Biossíntese de proteínas
+AJAP_478165	cytochrome_P450	-1.1707	0.07317394	Transporte de membrana
+AALB_808662	DNA_repair_protein	0.9534	0.00716246	Ciclo celular
+AALB_366997	oxidative_stress_protein	-4.5463	0.00769594	Metabolismo de lipídios
+AALB_745188	tubulin	0.1151	0.12274771	Estresse oxidativo
+AAEL_515008	ubiquitin_ligase	-0.6691	0.24082225	Tradução
+AAEL_861379	DNA_repair_protein	-5.638965213460174	0.05168096	Neurogênese
+AAEL_344883	phosphatase	0.914	0.00146147	Modificação de proteínas
+AALB_560514	membrane_receptor	0.0972	0.000142967665	Desenvolvimento embrionário
+AAEL_771210	transcription_factor	-3.2443	0.37180529	Transporte de membrana
+AAEL_221789	proteasome_subunit	-1.1638	0.27234374	Sinalização celular
+AAEL_800780	chitin_synthase	-7.237132188859528	0.20210909	Desenvolvimento de tecidos
+AAEL_166017	trypsin_like_protease	0.5279	3e-12	Transporte de íons
+AJAP_788281	cytochrome_P450	2.5385305553341198	0.49096149	Apoptose
+AALB_756884	trypsin_like_protease	-1.4279	0.19200507	Processamento de RNA
+AALB_901480	serine_protease	4.666137708414121	0.28674937	Regulação transcricional
+AAEL_793264	immune_response_protein	-2.3085	0.35306694	Replicação do DNA
+AALB_658296	transport_protein	-1.7397	1.2599207e-05	Processamento de RNA
+AALB_830026	serine_protease	0.7509	0.21158354	Modificação de proteínas
+AAEL_155337	actin_related_protein	-1.2396	4e-12	Metabolismo energético
+AAEL_375494	heat_shock_protein	-0.1128	0.01196275	Regulação transcricional
+AAEL_145186	kinase	-1.0146	0.1903561	Resposta ao estresse
+AALB_527236	juvenile_hormone_protein	-0.7397	0.07792469	Fototransdução
+AALB_599883	phosphatase	-0.661	0.02307905	Metabolismo de carboidratos
+AAEL_840829	ABC_transporter	-1.2722	0.19759795	Transporte de íons
+AAEL_713217	juvenile_hormone_protein	0.5444	3.33541e-07	Apoptose
+AALB_675762	ATP_synthase	-1.1303	0.15548206	Metabolismo de carboidratos
+AALB_225995	proteasome_subunit	0.0282	0.40762918	Neurogênese
+AJAP_431770	transcription_factor	-1.3117	0.12738747	Biossíntese de proteínas
+AALB_528988	transcription_factor	-2.7617	0.01452606	Metabolismo de carboidratos
+AAEL_280553	actin_related_protein	1.6424	0.30285834	Metabolismo de lipídios
+AAEL_980438	transcription_factor	0.8991	0.00437786	Proteólise
+AALB_419278	juvenile_hormone_protein	4.1196	0.01343228	Metabolismo de lipídios
+AAEL_756701	RNA_binding_protein	-1.8792	0.08406962	Replicação do DNA
+AALB_714615	phosphatase	-0.3761	0.1387996	Homeostase celular
+AJAP_302503	antimicrobial_peptide	-0.2313	5.06e-06	Metabolismo energético
+AALB_111344	aquaporin	1.7809	0.28050641	Proteólise
+AAEL_692245	RNA_binding_protein	-0.9128	0.13955737	Modificação de proteínas
+AALB_420197	serine_protease	-2.1079	0.15507239	Desenvolvimento embrionário
+AALB_771256	kinase	2.1741	6e-08	Desenvolvimento larval
+AALB_817912	juvenile_hormone_protein	-0.57	0.13219159	Neurogênese
+AJAP_177454	proteasome_subunit	1.5816	0.09706368	Metabolismo de lipídios
+AAEL_611897	trypsin_like_protease	1.372	0.17036813	Desenvolvimento de tecidos
+AJAP_616142	lipid_metabolism_protein	-4.049441711363956	0.00647344	Transporte de membrana
+AJAP_653999	glutathione_S_transferase	-0.3138	0.26399714	Regulação transcricional
+AAEL_469040	aquaporin	-0.7048	0.31616316	Fototransdução
+AAEL_712121	antimicrobial_peptide	-0.0273	0.30757944	Ciclo celular
+AAEL_381685	ubiquitin_ligase	1.5536	0.06424077	Detoxificação
+AAEL_575526	ribosomal_protein	-1.4336	0.14382259	Metabolismo de lipídios
+AAEL_792558	antimicrobial_peptide	0.1959	0.21105159	Reparo do DNA
+AALB_386214	trypsin_like_protease	-2.0135	0.49538091	Transporte de íons
+AAEL_442703	serine_protease	0.4963005746016771	1.9175789e-05	Interação hospedeiro-microrganismo
+AAEL_576657	proteasome_subunit	-0.0557	0.000224971825	Metabolismo de aminoácidos
+AJAP_850294	transport_protein	-3.5283	0.01098247	Detoxificação
+AAEL_499953	signal_transduction_protein	3.709	0.03803446	Resposta imune
+AJAP_938003	glutathione_S_transferase	-2.1475	0.31174977	Metabolismo energético
+AAEL_381570	kinase	-0.0722	0.04043116	Vias de sinalização hormonal
+AAEL_349321	glutathione_S_transferase	2.1028	0.11630543	Resposta a patógenos
+AALB_711600	ribosomal_protein	-1.5532	0.16979904	Desenvolvimento de tecidos
+AALB_437054	tubulin	-4.1449	0.09933055	Ciclo celular
+AJAP_221826	juvenile_hormone_protein	-0.8009	0.00956636	Apoptose
+AALB_982875	ecdysone_response_protein	-1.5747	0.03728147	Regulação transcricional
+AJAP_310017	heat_shock_protein	-4.0975	0.35431024	Metabolismo de carboidratos
+AAEL_234055	ubiquitin_ligase	0.5128	0.0121746	Detoxificação
+AAEL_776022	aquaporin	0.3728	0.02349179	Apoptose
+AALB_833547	glutathione_S_transferase	2.0562	0.000357078025	Desenvolvimento embrionário
+AJAP_550062	tubulin	-2.0175	0.18588526	Desenvolvimento embrionário
+AJAP_893072	odorant_receptor	-2.8784	0.0051815	Homeostase celular
+AAEL_941052	oxidative_stress_protein	-0.7321	0.17145486	Metabolismo de lipídios
+AAEL_739896	ecdysone_response_protein	-0.159	0.36599541	Tradução
+AALB_782705	immune_response_protein	1.6584	0.21338164	Metabolismo de aminoácidos
+AAEL_354444	lipid_metabolism_protein	2.539	0.08098734	Reparo do DNA
+AJAP_961291	signal_transduction_protein	-0.531331050834027	0.01916107	Modificação de proteínas
+AJAP_210017	aquaporin	-2.8558425977147914	0.17735014	Biossíntese de proteínas
+AAEL_223618	lipid_metabolism_protein	1.4391	0.00300984	Estresse oxidativo
+AALB_559297	signal_transduction_protein	-1.1529	4.006688e-06	Resposta a patógenos
+AALB_915862	ecdysone_response_protein	-3.3651891940013514	9.357261e-06	Metabolismo de lipídios
+AAEL_652076	kinase	-2.1443	0.0847905	Desenvolvimento embrionário
+AJAP_541759	heat_shock_protein	0.1128	0.25257093	Tradução
+AALB_982554	glutathione_S_transferase	0.1596	0.00070738	Resposta ao estresse
+AJAP_993741	membrane_receptor	3.0998	0.24867894	Vias de sinalização hormonal
+AAEL_931516	signal_transduction_protein	-0.4122	0.18552267	Replicação do DNA
+AJAP_806544	transport_protein	0.1621	0.01911595	Regulação transcricional
+AAEL_698260	juvenile_hormone_protein	0.4265	0.14193278	Reparo do DNA
+AAEL_375128	RNA_binding_protein	-0.8187	0.25387158	Desenvolvimento embrionário
+AJAP_709719	juvenile_hormone_protein	-1.4445	0.04618499	Replicação do DNA
+AAEL_945038	actin_related_protein	2.3379	0.0707803	Desenvolvimento larval
+AAEL_989097	signal_transduction_protein	-1.7657	0.01852713	Neurogênese
+AJAP_281144	glutathione_S_transferase	-2.3903	0.08360948	Metabolismo de carboidratos
+AJAP_350195	ATP_synthase	1.2245	0.00327026	Homeostase celular
+AALB_504032	signal_transduction_protein	2.0841	0.08335942	Modificação de proteínas
+AALB_841040	heat_shock_protein	-0.8125	0.00303286	Metabolismo de carboidratos
+AAEL_209996	ribosomal_protein	-0.7849	0.0803402	Proteólise
+AAEL_649239	signal_transduction_protein	0.5086	0.00647022	Neurogênese
+AAEL_265873	odorant_receptor	-1.2741	0.11657682	Sinalização celular
+AALB_999005	ATP_synthase	-1.4071	1.4634e-07	Biossíntese de proteínas
+AALB_533816	RNA_binding_protein	1.5833	0.07495345	Resposta a patógenos
+AALB_321888	antimicrobial_peptide	1.0928	7.725e-09	Metabolismo de lipídios
+AALB_845453	DNA_repair_protein	2.3601	9.619e-05	Biossíntese de proteínas
+AAEL_266472	DNA_repair_protein	-2.2547	0.02043886	Estresse oxidativo
+AALB_311760	actin_related_protein	-0.9044	0.55191999	Transporte de íons
+AAEL_975863	odorant_receptor	0.5061	0.01011693	Desenvolvimento embrionário
+AALB_601946	ubiquitin_ligase	-1.6661	0.14460405	Resposta imune
+AAEL_691652	transport_protein	1.155	5.9e-11	Processamento de RNA
+AJAP_931460	chitin_synthase	2.2043	0.07420457	Metabolismo de lipídios
+AAEL_853019	ABC_transporter	-1.05	0.03793226	Tradução
+AAEL_756166	tubulin	0.0695	0.21138541	Biossíntese de proteínas
+AAEL_811998	ribosomal_protein	2.6201	0.07050605	Desenvolvimento de tecidos
+AALB_599722	signal_transduction_protein	3.2387	0.07271786	Regulação transcricional
+AALB_658924	cytochrome_P450	5.12858041039083	0.01638824	Proteólise
+AAEL_279352	glutathione_S_transferase	1.0682	0.18775759	Modificação de proteínas
+AAEL_966867	odorant_receptor	-1.5367	0.10734606	Processamento de RNA
+AALB_550195	transport_protein	0.6466	0.03930359	Transporte de íons
+AAEL_531413	antimicrobial_peptide	1.0023	0.044149	Resposta imune
+AJAP_426898	ecdysone_response_protein	-0.3787	0.10925931	Processamento de RNA
+AALB_963561	chitin_synthase	-1.0706	0.08461604	Metabolismo energético
+AAEL_161665	actin_related_protein	-2.3063	0.14018455	Replicação do DNA
+AAEL_216953	trypsin_like_protease	-3.1279	0.14928577	Metabolismo energético
+AJAP_782736	ubiquitin_ligase	-3.5062	6.543e-05	Proteólise
+AAEL_286626	tubulin	1.043	0.16399498	Modificação de proteínas
+AAEL_218533	ATP_synthase	0.2659	0.09726115	Ciclo celular
+AJAP_698069	DNA_repair_protein	-0.8709	0.17984431	Metabolismo de aminoácidos
+AJAP_166262	transcription_factor	-0.5966	0.15991914	Vias de sinalização hormonal
+AJAP_933032	heat_shock_protein	0.3788	0.0233568	Apoptose
+AALB_555699	ubiquitin_ligase	-0.2962	0.000335505771	Desenvolvimento larval
+AAEL_654736	transport_protein	-2.413	0.23874366	Metabolismo energético
+AAEL_107657	heat_shock_protein	1.6434	0.05348028	Sinalização celular
+AALB_880977	kinase	0.5474	0.14013871	Biossíntese de proteínas
+AALB_474999	heat_shock_protein	0.4786	0.09374278	Fototransdução
+AAEL_784191	heat_shock_protein	1.5076	0.03887806	Metabolismo de lipídios
+AJAP_423557	ecdysone_response_protein	-1.4646	0.00914118	Ciclo celular
+AAEL_893719	transport_protein	2.1847	0.10578202	Transporte de membrana
+AALB_568974	actin_related_protein	-0.2521	3.78208e-07	Ciclo celular
+AAEL_815080	odorant_receptor	1.5995	3.6321978e-05	Metabolismo de carboidratos
+AALB_134701	ATP_synthase	1.322	0.20741888	Homeostase celular
+AAEL_865537	chitin_synthase	-4.291209927734406	0.00810637	Estresse oxidativo
+AAEL_183560	tubulin	0.9052	0.04230709	Tradução
+AAEL_143642	mitochondrial_protein	0.5873	0.1642801	Modificação de proteínas
+AALB_591036	trypsin_like_protease	0.0546	0.04214718	Interação hospedeiro-microrganismo
+AALB_904034	actin_related_protein	-0.1699	0.10849496	Detoxificação
+AALB_713089	juvenile_hormone_protein	-0.1546	0.13509184	Regulação transcricional
+AJAP_194377	trypsin_like_protease	1.4628	0.04724271	Processamento de RNA
+AAEL_932974	serine_protease	1.0402	0.000384973444	Reparo do DNA
+AAEL_928952	ATP_synthase	0.0549	6.476e-09	Detoxificação
+AJAP_551978	proteasome_subunit	-2.6855	0.08090772	Metabolismo de lipídios
+AAEL_705409	tubulin	0.89	0.04089843	Metabolismo energético
+AJAP_992027	DNA_repair_protein	1.3025	0.16422213	Desenvolvimento larval
+AAEL_956101	serine_protease	4.1407	0.03213265	Metabolismo de carboidratos
+AJAP_777114	ATP_synthase	1.9358	0.2005992	Homeostase celular
+AAEL_957263	ubiquitin_ligase	-3.4185	0.19360158	Resposta imune
+AJAP_666161	ABC_transporter	0.1412	0.17329794	Transporte de membrana
+AALB_992964	mitochondrial_protein	3.2605	0.24268869	Interação hospedeiro-microrganismo
+AJAP_503119	ecdysone_response_protein	1.1224	0.11146578	Estresse oxidativo
+AAEL_928187	ATP_synthase	0.5916	0.36502902	Detoxificação
+AALB_186988	transcription_factor	1.6204	0.10041985	Neurogênese
+AJAP_225991	ecdysone_response_protein	-1.1203	0.63305365	Vias de sinalização hormonal
+AALB_606079	signal_transduction_protein	-1.2643151872381428	0.31262845	Vias de sinalização hormonal
+AALB_626684	phosphatase	-0.4508	0.00023034	Reparo do DNA
+AALB_228322	tubulin	-0.0353	0.04011723	Modificação de proteínas
+AALB_111303	cytochrome_P450	1.4912	0.000716767758	Transporte de íons
+AALB_433863	proteasome_subunit	-1.6681	0.13863052	Metabolismo de carboidratos
+AALB_884108	immune_response_protein	2.3184	0.04842487	Sinalização celular
+AJAP_186231	phosphatase	-0.7611	0.07560041	Regulação transcricional
+AAEL_119623	mitochondrial_protein	0.4692	0.13314287	Metabolismo energético
+AAEL_590042	proteasome_subunit	-2.5209	0.15078199	Metabolismo de lipídios
+AJAP_576840	ecdysone_response_protein	1.2957	0.00598622	Metabolismo de carboidratos
+AJAP_526346	ecdysone_response_protein	2.6037	0.39440369	Transporte de membrana
+AALB_984056	antimicrobial_peptide	-0.9264	0.01412712	Detoxificação
+AALB_998217	odorant_receptor	-1.9984	0.09626977	Processamento de RNA
+AAEL_972638	proteasome_subunit	0.5004	0.12779656	Biossíntese de proteínas
+AAEL_233541	mitochondrial_protein	2.6187	3e-12	Detoxificação
+AALB_777894	ATP_synthase	-2.6097	0.09182489	Fototransdução
+AAEL_148874	ecdysone_response_protein	-1.9914	0.0001136813	Apoptose
+AALB_174553	actin_related_protein	-0.8175	0.02397324	Processamento de RNA
+AAEL_935570	aquaporin	-1.4766	0.00015445	Resposta a patógenos
+AJAP_178249	lipid_metabolism_protein	-1.4709	0.35449821	Fototransdução
+AJAP_627007	chitin_synthase	-3.7694	0.00579822	Resposta a patógenos
+AALB_570452	signal_transduction_protein	1.0603	0.02310705	Proteólise
+AALB_142534	kinase	3.5063381107388443	0.000195116915	Fototransdução
+AAEL_512003	cytochrome_P450	-3.0579	0.05717544	Desenvolvimento de tecidos
+AJAP_542061	ecdysone_response_protein	2.623	0.01205867	Transporte de íons
+AALB_716412	juvenile_hormone_protein	3.026	0.00321977	Metabolismo de carboidratos
+AAEL_264134	cytochrome_P450	-1.3516	0.00596287	Transporte de íons
+AJAP_842623	ecdysone_response_protein	2.0998	0.16053295	Biossíntese de proteínas
+AJAP_175418	transcription_factor	-1.0314	0.32972225	Proteólise
+AJAP_228232	transcription_factor	0.326	0.03048281	Regulação transcricional
+AALB_620551	cytochrome_P450	-1.5044	3.1206403e-05	Transporte de íons
+AALB_268383	tubulin	3.9857	0.00807167	Metabolismo de lipídios
+AAEL_425996	heat_shock_protein	-0.5328	4e-12	Resposta imune
+AJAP_232079	ABC_transporter	0.2276	0.00725682	Resposta imune
+AJAP_700530	signal_transduction_protein	-1.2383	0.43966717	Neurogênese
+AAEL_603238	lipid_metabolism_protein	3.3504	0.00146315	Detoxificação
+AAEL_580488	cytochrome_P450	3.3959	0.20593298	Apoptose
+AAEL_423390	mitochondrial_protein	2.9357	0.0310183	Neurogênese
+AJAP_329947	DNA_repair_protein	1.7216	0.02766044	Ciclo celular
+AJAP_715645	ATP_synthase	-1.1246	0.46776481	Desenvolvimento embrionário
+AAEL_827955	odorant_receptor	1.4901	0.18725904	Transporte de íons
+AALB_238563	proteasome_subunit	-0.0127	0.01583097	Transporte de íons
+AAEL_606047	transcription_factor	2.3623	0.18237613	Neurogênese
+AJAP_426032	lipid_metabolism_protein	2.0086	0.14561961	Metabolismo de lipídios
+AJAP_895509	immune_response_protein	-1.1687	3.1e-11	Ciclo celular
+AJAP_353973	ubiquitin_ligase	1.7061	0.24319627	Interação hospedeiro-microrganismo
+AALB_476826	kinase	1.2277	0.07367047	Detoxificação
+AAEL_954321	ribosomal_protein	-4.9924	0.00651678	Metabolismo de carboidratos
+AAEL_530783	DNA_repair_protein	1.4417	0.00010582	Tradução
+AAEL_649148	juvenile_hormone_protein	-0.7772	3.89977e-07	Transporte de membrana
+AJAP_701763	proteasome_subunit	-1.5949	0.3995432	Apoptose
+AJAP_973698	membrane_receptor	-1.5179	1.6655e-08	Transporte de íons
+AJAP_987164	juvenile_hormone_protein	-0.2434	0.15316102	Resposta ao estresse
+AJAP_842406	transport_protein	0.8641	0.19757843	Tradução
+AALB_748074	immune_response_protein	-2.4578	0.36770691	Metabolismo de lipídios
+AALB_632101	DNA_repair_protein	0.3417	0.05836398	Vias de sinalização hormonal
+AJAP_605934	phosphatase	1.0382	0.77749727	Processamento de RNA
+AJAP_389226	ubiquitin_ligase	3.3513	0.15170611	Fototransdução
+AAEL_327286	ubiquitin_ligase	-1.938	0.23580328	Detoxificação
+AALB_111745	ribosomal_protein	-0.6293	0.20767422	Homeostase celular
+AAEL_244097	transport_protein	0.471	0.03508636	Sinalização celular
+AJAP_769648	heat_shock_protein	2.0653	0.29707251	Tradução
+AALB_984200	glutathione_S_transferase	-3.932664863074216	0.07672928	Resposta imune
+AAEL_824238	aquaporin	2.1576	1.05e-09	Sinalização celular
+AALB_438076	chitin_synthase	-3.4873	0.3345316	Homeostase celular
+AALB_385555	cytochrome_P450	-2.256	0.00116306	Desenvolvimento de tecidos
+AAEL_605518	ribosomal_protein	0.6276	0.16906982	Fototransdução
+AAEL_414451	oxidative_stress_protein	-2.5395	0.27566322	Vias de sinalização hormonal
+AALB_384186	heat_shock_protein	-2.114	0.00260166	Desenvolvimento embrionário
+AALB_872944	signal_transduction_protein	-0.95	1e-12	Desenvolvimento de tecidos
+AALB_868747	tubulin	1.3886	0.16032491	Fototransdução
+AALB_984315	transport_protein	-6.366386936635634	0.0067046	Ciclo celular
+AJAP_153268	DNA_repair_protein	0.3065	0.01254846	Apoptose
+AALB_312943	ATP_synthase	1.8593	0.09847669	Apoptose
+AALB_521818	membrane_receptor	-0.3509	0.33126844	Replicação do DNA
+AJAP_673189	phosphatase	-0.6639	0.34791733	Transporte de membrana
+AAEL_294488	ATP_synthase	0.7232	0.1594158	Transporte de íons
+AAEL_490530	proteasome_subunit	-0.3458	0.15662067	Estresse oxidativo
+AAEL_762784	ubiquitin_ligase	2.5029	0.10396113	Interação hospedeiro-microrganismo
+AALB_341531	ABC_transporter	-2.0005	0.52973009	Homeostase celular
+AALB_803650	transcription_factor	-0.093	0.10471515	Desenvolvimento embrionário
+AALB_338360	tubulin	0.3702	0.17717125	Resposta ao estresse
+AAEL_607403	kinase	-0.6812	0.01694777	Ciclo celular
+AAEL_531374	juvenile_hormone_protein	-5.1683	0.11476047	Regulação transcricional
+AAEL_380783	proteasome_subunit	-0.2896	0.61680061	Sinalização celular
+AAEL_855271	mitochondrial_protein	1.6203	0.04196526	Desenvolvimento de tecidos
+AALB_477816	transcription_factor	1.4006	0.12449135	Modificação de proteínas
+AAEL_529660	antimicrobial_peptide	0.6386	0.00202309	Desenvolvimento de tecidos
+AAEL_501927	DNA_repair_protein	-1.9762	0.06449364	Apoptose
+AJAP_445114	ribosomal_protein	0.7116	2e-12	Vias de sinalização hormonal
+AAEL_447697	membrane_receptor	-1.0322	0.25364267	Metabolismo energético
+AALB_270182	heat_shock_protein	0.6363	0.00152936	Desenvolvimento de tecidos
+AALB_817148	juvenile_hormone_protein	0.2187	0.07418052	Resposta ao estresse
+AAEL_338260	tubulin	-1.7575	0.04820157	Metabolismo de aminoácidos
+AALB_931291	ubiquitin_ligase	-1.6064	0.27407196	Desenvolvimento larval
+AJAP_938530	membrane_receptor	0.639	0.40904811	Detoxificação
+AJAP_746701	DNA_repair_protein	-0.398	0.04496229	Tradução
+AAEL_430904	signal_transduction_protein	-1.5125	0.02242048	Desenvolvimento embrionário
+AJAP_618349	glutathione_S_transferase	-1.6611	0.09621178	Regulação transcricional
+AALB_897968	signal_transduction_protein	-0.5469	9e-12	Replicação do DNA
+AAEL_179083	membrane_receptor	2.8226	0.11322008	Homeostase celular
+AALB_658819	trypsin_like_protease	-0.9469	0.35211843	Desenvolvimento de tecidos
+AJAP_466245	RNA_binding_protein	-0.0252	0.09434989	Desenvolvimento larval
+AALB_699032	mitochondrial_protein	-3.4739385988982345	0.36805507	Desenvolvimento de tecidos
+AAEL_754037	oxidative_stress_protein	-2.0358	0.43123864	Transporte de membrana
+AALB_935700	cytochrome_P450	-3.1731	0.0394154	Metabolismo de aminoácidos
+AAEL_941047	serine_protease	-1.848	0.06326875	Biossíntese de proteínas
+AAEL_354346	ecdysone_response_protein	0.4447	0.08257445	Detoxificação
+AAEL_815472	serine_protease	0.1572	0.07296712	Vias de sinalização hormonal
+AAEL_878513	signal_transduction_protein	1.2643	0.0012942	Modificação de proteínas
+AAEL_785375	kinase	0.1741	0.08970629	Desenvolvimento embrionário
+AAEL_969741	DNA_repair_protein	-0.1972	0.23115617	Metabolismo de lipídios
+AALB_817406	ABC_transporter	-1.0872	5e-12	Biossíntese de proteínas
+AAEL_781503	chitin_synthase	1.5923	0.12220711	Desenvolvimento de tecidos
+AAEL_777164	actin_related_protein	-1.6545	0.03712827	Resposta a patógenos
+AJAP_164288	mitochondrial_protein	-1.9987	0.39376021	Modificação de proteínas
+AALB_382725	trypsin_like_protease	1.0207	9.818468e-06	Processamento de RNA
+AALB_392231	chitin_synthase	-2.3997	0.03040624	Estresse oxidativo
+AAEL_264053	phosphatase	4.3466	0.03650876	Resposta ao estresse
+AAEL_932599	trypsin_like_protease	0.144	0.00607581	Desenvolvimento larval
+AAEL_536624	juvenile_hormone_protein	0.6262	0.11229487	Resposta imune
